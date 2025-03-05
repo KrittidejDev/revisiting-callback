@@ -7,7 +7,7 @@ Answer:
 Answer:
 
 
-3. หากต้องสอนเพื่อนให้เข้าใจ allback & Higher-Order Function ใน 5 นาที จะอธิบายอย่างไร 
+3. หากต้องสอนเพื่อนให้เข้าใจ Callback & Higher-Order Function ใน 5 นาที จะอธิบายอย่างไร 
 Answer:  
 
 
